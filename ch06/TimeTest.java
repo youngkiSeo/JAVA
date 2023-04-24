@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class TimeTest {
     public static void main(String[] args) {
-        Time time = new Time();
+        Time time = new Time(); //객체화
+
         Scanner scan = new Scanner(System.in);
         while(true) {
             int input = scan.nextInt();
