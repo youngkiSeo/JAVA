@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.green.board10.cmt.CmtMapper">
+
+    <insert id="CmtIns" parameterType="CmtInsDto">
+        insert into t_board_cmt
+        set iboard = #{iboard},
+        iuser = #{iuser},
+        ctnt= #{ctnt}
+    </insert>
+
+    <update id="CmtUpd" parameterType="CmtUpdDto">
+        update t_board_cmt
+        set iboard = #{iboard},
+        iuser = #{iuser},
+        ctnt= #{ctnt}
+        where iboard_cmt = #{iboard_cmt} and iuser = #{iuser}
+
+    </update>
+
+    <select id="CmtSel" resultType="CmtVo">
+        SELECT A.iboard_cmt,A.iboard, A.ctnt, A.created_at, B.uid,B.nm,B.main_pic
+        FROM t_board_cmt A
+        INNER JOIN t_user B
+        ON A.iuser = B.iuser
+        LIMIT #{startIdx},#{row}
+    </select>
+
+    <select id="CmtSel2" resultType="CmtVo">
+        SELECT A.iboard_cmt,A.iboard, A.ctnt, A.created_at, B.uid,B.nm,B.main_pic
+        FROM t_board_cmt A
+        INNER JOIN t_user B
+        ON A.iuser = B.iuser
+        where iboard = #{iboard}
+        LIMIT #{startIdx},#{row}
+    </select>
+
+    <select id="selBoardCmtRowCountByIBoard">
+        SELECT count(iboard_cmt) FROM t_board_cmt
+        WHERE iboard = #{iboard}
+    </select>
+
+    <delete id="delCmt">
+        DELETE FROM t_board_cmt
+        WHERE
+        <if test="iboard_cmt > 0 and iuser > 0">
+            iboard_cmt = #{iboard_cmt}
+            AND iuser = #{iuser}
+        </if>
+        <if test="iboard > 0">
+            iboard = #{iboard}
+        </if>
+
+    </delete>
+
+
+
+</mapper>
