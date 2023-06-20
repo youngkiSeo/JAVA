@@ -22,6 +22,7 @@ public class CmtService {
             if (result == 1) {
                 int idx=entity.getIboardCmt();
                 selBoardCmtgetIboardCmt(idx);
+
                 System.out.println(selBoardCmtgetIboardCmt(idx));
                 return idx;
             }
