@@ -63,11 +63,11 @@ public class BoardController {
         return "boardDetail";
     }
 
-//    @GetMapping("/{iboard}")
-//    @Operation(summary = "디테일 보기")
-//    public BoardDetailCmtVo GetDetail(@PathVariable int iboard){
-//        BoardSelDto dto = new BoardSelDto();
-//        dto.setIboard(iboard);
-//        return service.selBoardDetail(dto);
-//    }
+    @GetMapping("/{iboard}")
+    @Operation(summary = "디테일 보기")
+    public BoardDetailCmtVo GetDetail(@PathVariable int iboard){
+        BoardSelDto dto = new BoardSelDto();
+        dto.setIboard(iboard);
+        return service.selBoardDetail(dto);
+    }
 }

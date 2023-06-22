@@ -10,5 +10,4 @@ public class BoardDetailVo {
     private String createdAt;
     private String writer;
     private String writerMainPic;
-
 }
