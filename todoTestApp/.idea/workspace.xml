@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45919c6e-c633-4acc-a417-a1bc0ceb0ac3" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/../BookTodoList" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../growgreen-master/src/main/java/com/green/growgreen/todo/model/TodoRepeatVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../growgreen-master/src/main/java/com/green/growgreen/todo/model/TodoSelListDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/BoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/FruitBoxEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/FruitBoxEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/FruitBoxEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/GBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/GBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch12/GenericsStudy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/Calculatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/CalculatableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/Fightable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/FightableLamdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambaEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambaInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambdaEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambdaEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambdaEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LambdaEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/LamdbaEx5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayListTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayListTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayListTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayListTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/MyArrayTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/RefMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/RefMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/StreamStudy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/StreamStudy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/StreamStudy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/com/green/java/ch14/fightabletest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/Babyfood" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/mystudy/src/main/java/com/green/mystudy/KomoranController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/TodoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/TodoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/TodoServiceimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/TodoTestAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/config/JacksonConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/model/TodoInsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/model/TodoInsParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/model/TodoRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/model/TodoUpdDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/model/TodoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/green/todotestapp/utils/MyFileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/init/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/init/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/TodoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/CharEncodingConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/DelFolderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/MockMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/TodoControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/TodoIntergrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/TodoMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/TodoServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/TodoTestAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/green/todotestapp/integrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1" beforeDir="false" afterPath="$PROJECT_DIR$/../1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-board-ver2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/CommonRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/SecurityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/SwaggerConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/CustomAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/CustomAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/JwtTokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/MyUserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/OpenAPIConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/PasswordEncoderConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/UserDetailsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/model/EntryPointErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/model/MyUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/config/security/model/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/sign/SignController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/sign/SignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/sign/model/SignInResultDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/sign/model/SignUpResultDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/todo/TodoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/java/com/green/security/todo/ViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/resources/mapper/UserDetailsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-security-authentication-master/src/test/java/com/green/security/SecurityApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/logs/logInfo.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/Board7Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/MvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/BoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/BoardMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/BoardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/model/BoardDetailVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/model/BoardDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/model/BoardEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/model/BoardInsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/board/model/BoardVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/CmtController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/CmtMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/CmtService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/model/BoardCmtDelDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/model/BoardCmtDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/model/BoardCmtInsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/cmt/model/BoardCmtVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/fileupload/FileuploadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/fileupload/FileuploadMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/fileupload/FileuploadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/fileupload/model/FileEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/fileupload/model/FileLoadDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/java/com/green/board7/fileupload/model/FileuploadInsDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/mapper/BoardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/mapper/CmtMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/mapper/FileuploadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/css/board.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/css/boardDetail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/html/board.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/html/boardDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/html/boardWrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/html/fileUpload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/js/board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/js/boardDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/main/resources/static/js/boardWrite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/src/test/java/com/green/board7/Board7ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/Board7Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/MvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/BoardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/BoardMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/BoardService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/model/BoardDetailVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/model/BoardDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/model/BoardEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/model/BoardInsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/board/model/BoardVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/CmtController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/CmtMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/CmtService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/model/BoardCmtDelDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/model/BoardCmtDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/model/BoardCmtInsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/cmt/model/BoardCmtVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/FileuploadController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/FileuploadMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/FileuploadService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/model/FileEntity$FileEntityBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/model/FileEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/model/FileLoadDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/com/green/board7/fileupload/model/FileuploadInsDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/mapper/BoardMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/mapper/CmtMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/mapper/FileuploadMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/css/board.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/css/boardDetail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/html/board.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/html/boardDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/html/boardWrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/html/fileUpload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/js/board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/js/boardDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2023-1-spring-swagger-logback-master/target/classes/static/js/boardWrite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/src/main/java/com/green/booktodo/BooktodoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book-todolist-todolist/src/test/java/com/green/booktodo/BooktodoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoApp/src/main/resources/mapper/TodoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todoApp/src/main/resources/mapper/TodoMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SgP8sXeydIMqAoc0GTpuuu6UaI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "todolist",
+    "last_opened_file_path": "D:/Students/todoApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "4d3bae7e938c76d473562b40cb04a88f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Students\todoTestApp\src\main\resources\mapper" />
+      <recent name="D:\Students\todoTestApp\src\main\resources\init" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.green.todotestapp" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.green.todotestapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DelFolderTest.delfolder">
+    <configuration name="DelFolderTest.delfolder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todoTestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.todotestapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.todotestapp" />
+      <option name="MAIN_CLASS_NAME" value="com.green.todotestapp.DelFolderTest" />
+      <option name="METHOD_NAME" value="delfolder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todoTestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.todotestapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.todotestapp" />
+      <option name="MAIN_CLASS_NAME" value="com.green.todotestapp.TodoControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoControllerTest.postTodo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todoTestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.todotestapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.todotestapp" />
+      <option name="MAIN_CLASS_NAME" value="com.green.todotestapp.TodoControllerTest" />
+      <option name="METHOD_NAME" value="postTodo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoIntergrationTest.postTodo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todoTestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.todotestapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.todotestapp" />
+      <option name="MAIN_CLASS_NAME" value="com.green.todotestapp.TodoIntergrationTest" />
+      <option name="METHOD_NAME" value="postTodo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoServiceTest.insTodo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="todoTestApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.todotestapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.todotestapp" />
+      <option name="MAIN_CLASS_NAME" value="com.green.todotestapp.TodoServiceTest" />
+      <option name="METHOD_NAME" value="insTodo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTestAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="todoTestApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.green.todotestapp.TodoTestAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DelFolderTest.delfolder" />
+        <item itemvalue="JUnit.TodoServiceTest.insTodo" />
+        <item itemvalue="JUnit.TodoIntergrationTest.postTodo" />
+        <item itemvalue="JUnit.TodoControllerTest" />
+        <item itemvalue="JUnit.TodoControllerTest.postTodo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45919c6e-c633-4acc-a417-a1bc0ceb0ac3" name="Changes" comment="" />
+      <created>1689565097551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689565097551</updated>
+      <workItem from="1689565098674" duration="3500000" />
+      <workItem from="1689640423545" duration="248000" />
+      <workItem from="1689728225407" duration="1174000" />
+      <workItem from="1689729407590" duration="10453000" />
+      <workItem from="1689755902478" duration="1218000" />
+      <workItem from="1689813129745" duration="14018000" />
+      <workItem from="1689903232883" duration="6414000" />
+      <workItem from="1690159349156" duration="5211000" />
+      <workItem from="1690180930870" duration="36000" />
+      <workItem from="1690245271513" duration="7527000" />
+      <workItem from="1690253558285" duration="7000" />
+      <workItem from="1690262033966" duration="1423000" />
+      <workItem from="1690418927220" duration="5329000" />
+      <workItem from="1691546456619" duration="4138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
