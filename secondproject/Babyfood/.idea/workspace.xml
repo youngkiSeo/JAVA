@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26d361eb-07a1-4ab0-b79a-45563431cf8b" name="Changes" comment="mypage url 수정 - 서영기">
+      <change beforePath="$PROJECT_DIR$/../../babymeal/HELP.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Tx8BtbSlQFyxAySPgzpMXLckII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Students/secondproject/Babyfood&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;921cee81917319c75a99b331c1cf0371&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BabyfoodApplication">
+    <configuration name="BuyControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="babyfood" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.babyfood.buy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.babyfood.buy" />
+      <option name="MAIN_CLASS_NAME" value="com.green.babyfood.buy.BuyControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="babyfood" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.babyfood.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.babyfood.main" />
+      <option name="MAIN_CLASS_NAME" value="com.green.babyfood.main.MainControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="babyfood" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.babyfood.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.babyfood.main" />
+      <option name="MAIN_CLASS_NAME" value="com.green.babyfood.main.MainServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MypageControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="babyfood" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.babyfood.mypage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.babyfood.mypage" />
+      <option name="MAIN_CLASS_NAME" value="com.green.babyfood.mypage.MypageControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchControllerTest.getproduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="babyfood" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.green.babyfood.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.green.babyfood.search" />
+      <option name="MAIN_CLASS_NAME" value="com.green.babyfood.search.SearchControllerTest" />
+      <option name="METHOD_NAME" value="getproduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Babyfood" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Babyfood" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BabyfoodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="babyfood" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.green.babyfood.BabyfoodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MypageControllerTest" />
+        <item itemvalue="JUnit.SearchControllerTest.getproduct" />
+        <item itemvalue="JUnit.BuyControllerTest" />
+        <item itemvalue="JUnit.MainControllerTest" />
+        <item itemvalue="JUnit.MainServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26d361eb-07a1-4ab0-b79a-45563431cf8b" name="Changes" comment="" />
+      <created>1691973240200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691973240200</updated>
+      <workItem from="1691973243187" duration="31195000" />
+      <workItem from="1692145876749" duration="24190000" />
+      <workItem from="1692232287140" duration="12863000" />
+      <workItem from="1692328495595" duration="608000" />
+      <workItem from="1692329599433" duration="4715000" />
+      <workItem from="1692579630372" duration="15000" />
+      <workItem from="1692594846157" duration="9245000" />
+      <workItem from="1692610203954" duration="53000" />
+      <workItem from="1692610263552" duration="32000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mypage image 예외처리 - 서영기">
+      <created>1691973989491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691973989492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TDD Mypage 예외처리 - 서영기">
+      <created>1691980609979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691980609979</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BuyController -제거 - 서영기">
+      <created>1691981446629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691981446629</updated>
+    </task>
+    <task id="LOCAL-00004" summary="search count값 추가 - 서영기">
+      <created>1691990351682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691990351682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BuyInsIdDto 추가 - 서영기">
+      <created>1691991497651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691991497651</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Search maxpage 추가 - 서영기">
+      <created>1691994231351</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691994231351</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mypage 주문조회 - 서영기">
+      <created>1692004664052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692004664052</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Mypage 주문조회 - 서영기">
+      <created>1692006303943</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692006303943</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Mypage 상품구매 post,get - 서영기">
+      <created>1692011121379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692011121379</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mypage,Search 상품명 앞에 카테고리단계 추가 - 서영기">
+      <created>1692154519917</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692154519917</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Mypage,http:// 붙이기 - 서영기">
+      <created>1692155054038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692155054038</updated>
+    </task>
+    <task id="LOCAL-00012" summary="search where절 수정 - 서영기">
+      <created>1692173676395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692173676395</updated>
+    </task>
+    <task id="LOCAL-00013" summary="searchservice 수정 - 서영기">
+      <created>1692173970193</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692173970193</updated>
+    </task>
+    <task id="LOCAL-00014" summary="mypage 주문내역 수정 - 서영기">
+      <created>1692179099803</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692179099803</updated>
+    </task>
+    <task id="LOCAL-00015" summary="search 검색 수정 - 서영기">
+      <created>1692233124764</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692233124764</updated>
+    </task>
+    <task id="LOCAL-00016" summary="mypage url 수정 - 서영기">
+      <created>1692605766896</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692605766896</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mypage image 예외처리 - 서영기" />
+    <MESSAGE value="TDD Mypage 예외처리 - 서영기" />
+    <MESSAGE value="BuyController -제거 - 서영기" />
+    <MESSAGE value="search count값 추가 - 서영기" />
+    <MESSAGE value="BuyInsIdDto 추가 - 서영기" />
+    <MESSAGE value="Search maxpage 추가 - 서영기" />
+    <MESSAGE value="Mypage 주문조회 - 서영기" />
+    <MESSAGE value="Mypage 상품구매 post,get - 서영기" />
+    <MESSAGE value="Mypage,Search 상품명 앞에 카테고리단계 추가 - 서영기" />
+    <MESSAGE value="Mypage,http:// 붙이기 - 서영기" />
+    <MESSAGE value="search where절 수정 - 서영기" />
+    <MESSAGE value="searchservice 수정 - 서영기" />
+    <MESSAGE value="mypage 주문내역 수정 - 서영기" />
+    <MESSAGE value="search 검색 수정 - 서영기" />
+    <MESSAGE value="mypage url 수정 - 서영기" />
+    <option name="LAST_COMMIT_MESSAGE" value="mypage url 수정 - 서영기" />
+  </component>
+</project>
